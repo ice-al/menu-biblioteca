@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meus Livros</string>
+
+    <string name="novo_livro">Novo livro</string>
+    <string name="lista_vazia">Nenhum livro cadastrado ainda.\nToque em \"Novo livro\" para começar.</string>
+    <string name="item_detalhes">%1$s · %2$d · %3$d páginas</string>
+    <string name="status_lido">Lido</string>
+    <string name="status_nao_lido">Não lido</string>
+
+    <string name="titulo_novo">Cadastrar livro</string>
+    <string name="titulo_editar">Editar livro</string>
+    <string name="campo_titulo">Título</string>
+    <string name="campo_autor">Autor(a)</string>
+    <string name="campo_genero">Gênero</string>
+    <string name="campo_ano">Ano de publicação</string>
+    <string name="campo_paginas">Páginas</string>
+    <string name="campo_lido">Já li este livro</string>
+
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="desfazer">Desfazer</string>
+
+    <string name="excluir_titulo">Excluir livro?</string>
+    <string name="excluir_mensagem">\"%1$s\" será removido da sua lista.</string>
+
+    <string name="livro_cadastrado">Livro cadastrado</string>
+    <string name="livro_atualizado">Livro atualizado</string>
+    <string name="livro_excluido">Livro excluído</string>
+    <string name="livro_nao_encontrado">Livro não encontrado</string>
+
+    <string name="erro_obrigatorio">Campo obrigatório</string>
+    <string name="erro_ano">Informe um ano entre 1 e %1$d</string>
+    <string name="erro_paginas">Informe um número maior que zero</string>
+</resources>
